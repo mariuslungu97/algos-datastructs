@@ -1,0 +1,15 @@
+# Ignore all
+*
+
+# Unignore all with .cpp, .c and .h
+!*.cpp
+!*.c
+!*.h
+
+# Unignore README and .gitignore
+
+!README.md
+!.gitignore
+
+# Unignore all dirs
+!*/
