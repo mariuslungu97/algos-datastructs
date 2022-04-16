@@ -5,7 +5,6 @@
 #include <assert.h>
 #include <execinfo.h>
 #include <signal.h>
-#include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
 
